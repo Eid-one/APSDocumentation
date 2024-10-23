@@ -60,6 +60,4 @@
             return a > 50;
         }
         
-        // Example to trigger the function
- 
-    
+        
